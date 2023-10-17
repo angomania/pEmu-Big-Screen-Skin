@@ -2,7 +2,7 @@
 
 This skin removes the rom &amp; game info box.
 I've also adjusted some colors for the "Big" & "Default" screen.
-The "Big Screen" is particularly advantageous on the Switch.
+87The "Big Screen" is particularly advantageous on the Switch.
 
 
 Install:
